@@ -1,0 +1,1 @@
+Fixed multilingual components crash when language code not in langmap. Added defensive checks with optional chaining and fallbacks in Types, Add, TranslationObject, ManageTranslations, and CompareLanguages components. @ravi-aman
